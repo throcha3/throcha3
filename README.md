@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <a href="https://github.com/throcha3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=throcha3&show_icons=true&theme=radical&include_all_commits=true&count_private=true&&hide=contribs,stars&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=throcha3&layout=compact&langs_count=7&theme=radical"/>
-</div>
-

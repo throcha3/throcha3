@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Docker, git, postman, phpunit, aws, jira, agile.
+  💼 Ferramentas: Docker, git, phpunit/pest, aws, jira, agile.
 </p>
 
 <p align="left">
@@ -18,8 +18,6 @@
 </p>
 
 <p align="left">
-  <a href="mail:throcha3@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/thiago-pgrocha/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-pgrocha/" alt="LinkedIn"/></a>
   <a href="https://wa.me/5515991924677?text=Ol%C3%A1%21+Vim+do+github+e+gostaria+de+falar+com+voc%C3%AA+sobre..." title="WhatsApp">

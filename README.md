@@ -24,5 +24,5 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5515991924677?text=Ol%C3%A1%21+Vim+do+github+e+gostaria+de+falar+com+voc%C3%AA+sobre..." alt="WhatsApp"/></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=throcha3&theme=dark&)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=throcha3&layout=compact&hide=html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: PHP/Laravel, JS, React.js, Kotlin.
+  🦄 Linguagens: PHP/Laravel, JS, React.js
 </p>
 
 <p align="left">

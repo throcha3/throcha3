@@ -1,21 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou um desenvolvedor fullstack com mais de 4 anos de experiencia. Desafio é o meu combustível.<br>
-  Atualmente trabalho como dev back-end no aiqfome.
+  I am a fullstack developer with over 4 years of experience. Challenges are my fuel.<br>
+  I currently work as a back-end developer at aiqfome.
 </p>
 
 <p align="left">
-  🦄 Linguagens: PHP/Laravel, JS, React.js
+  🦄 Languages: PHP/Laravel, JS, React.js
 </p>
 
 <p align="left">
-  💼 Ferramentas: Docker, git, phpunit/pest, aws, jira, agile.
+  💼 Tools: Docker, git, phpunit/pest, aws, jira, agile.
 </p>
 
 <p align="left">
-  💌 Fique à vontade para entrar em contato comigo nas redes abaixo ⤵️
+  💌 Feel free to reach out to me through the networks below ⤵️
 </p>
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thiago-pgrocha/" title="LinkedIn">
